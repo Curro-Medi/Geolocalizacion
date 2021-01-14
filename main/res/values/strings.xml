@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practica5Geolocalizacion</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnmarkers">Empezar Ruta</string>
+    <string name="btnempezar">Markers</string>
+</resources>
